@@ -1,0 +1,2 @@
+# rbot
+Discord Chat Bot 
